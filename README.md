@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayooshraj&label=Profile%20views&color=0e75b6&style=flat" alt="ayooshraj" /> </p>
-<img style="width: 720px" align = "right" src="https://github.com/ayooshraj/ayooshraj/blob/main/ezgif.com-video-to-gif.gif">
+<img style="width: 500px" align = "right" src="https://github.com/ayooshraj/ayooshraj/blob/main/ezgif.com-video-to-gif.gif">
 
 - 🌱 I’m currently learning **Javascript and Python**
 
