@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ayoosh Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayooshraj&label=Profile%20views&color=0e75b6&style=flat" alt="ayooshraj" /> </p>
 <img style="width: 500px" align = "right" src="https://github.com/ayooshraj/ayooshraj/blob/main/ezgif.com-video-to-gif.gif">
 
-- 🌱 I’m currently learning **Javascript and Python**
+- 🌱 I’m currently learning **MERN and full stack deployment for industry-level work, understanding and building projects around that, and also freelancing with clients around the globe to get a better understanding of how different roles around these stacks work to find what excites me the most.**
 
-- 📝 I regularly write articles on [https://medium.com/@rajayoosh](https://medium.com/@rajayoosh)
+- 💬 Ask me about **Java, Python, C++, C, MERN, HTML, and CSS**
 
-- 💬 Ask me about **Java, HTML and CSS**
-
-- 📫 How to reach me **ayoosh@biliate.com**
-
-- ⚡ Fun fact **I'm a Content Creator and SEO Professional**
+- 📫 How to reach me **LinkedIn: [https://linkedin.com/rajayoosh](https://linkedin.com/rajayoosh/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
